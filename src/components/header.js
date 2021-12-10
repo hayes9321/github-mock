@@ -1,7 +1,9 @@
+import Nav from './nav'
+
 const Header = () => {
   return (
     <div>
-      Header
+      <Nav/>
     </div>
   )
 }
